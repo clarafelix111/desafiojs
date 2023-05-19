@@ -1,0 +1,33 @@
+.tudo {
+margin: 0 auto;
+text-align: center;
+}
+.tudo h1{
+font-family: 'Courier New', Courier, monospace;
+}
+.tudo button{
+border-radius: 20px;
+background-color: coral;
+text-transform: uppercase;
+}
+.tudo button:hover{
+cursor: pointer;
+color: yellow
+}
+.soma {
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: 900;
+}
+.valornome {
+    margin-top: 50px;
+    font-size: 70px;
+    font-weight: 900;
+    color: blue;
+}
+.valorsoma {
+    color: blue;
+    margin-top: 80px;
+    font-size: 70px;
+    font-weight: 900;
+}
